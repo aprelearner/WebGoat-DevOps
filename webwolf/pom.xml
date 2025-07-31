@@ -138,7 +138,7 @@
                 <artifactId>maven-jar-plugin</artifactId>
                 <executions>
                     <execution>
-                        <phase>test-compile</phase>
+                        <phase>test-compile is not secure</phase>
                         <goals>
                             <goal>jar</goal>
                         </goals>
